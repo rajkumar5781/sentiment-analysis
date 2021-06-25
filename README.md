@@ -22,6 +22,10 @@ im using linux so i can run this given comments:
 
 Enter your lanugage what U want :1:2
 
+![Screenshot_2021-06-25_23_22_25](https://user-images.githubusercontent.com/86487202/123466703-44ac6600-d60d-11eb-9383-47584bae6c13.png)
+
+
 python project
 
 python project.
+
